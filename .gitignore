@@ -47,3 +47,8 @@ app.*.map.json
 # Firebase configuration files (SENSITIVE - DO NOT COMMIT)
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
+
+# Project documentation and workflows (local only)
+*.pdf
+.agent/
+.gemini/
